@@ -7,8 +7,9 @@ The patch is delivered as a d2d1.dll proxy that forwards normal Direct2D calls t
 
 ## Installation
 
-1. Close PaintShop Pro.
-2. Copy `d2d1.dll` into the PaintShop Pro installation folder:
+1. Download the [dll wrapper](https://github.com/AlanDrake/pspfast/releases)
+2. Close PaintShop Pro.
+3. Copy `d2d1.dll` into the PaintShop Pro installation folder:
 
 ```text
 C:\Program Files\Corel\Corel PaintShop Pro 2023 (64-bit)
